@@ -10,7 +10,7 @@ import time
 def endlessLogs():
     while True:
         logging.warning('Watch out! here comes a flood of logs')
-        print("print log")
+        print("print log1")
         time.sleep(10)
 
 
