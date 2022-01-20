@@ -14,10 +14,10 @@ def endlessLogs():
         logging.warning('Watch out! here comes a flood of logs')
         logging.info('ERROR hello hello')
         global x
-        logging.error('lognumber:'+str(x))
+        logging.error('Medium-lognumber:'+str(x))
         x+=1
         print("print log1")
-        time.sleep(.003)
+        time.sleep(.002)
 
 
 
