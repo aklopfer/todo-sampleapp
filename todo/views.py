@@ -17,7 +17,7 @@ def endlessLogs():
         logging.error('Medium-lognumber:'+str(x))
         x+=1
         print("print log1")
-        time.sleep(.002)
+        time.sleep(.003)
 
 
 
